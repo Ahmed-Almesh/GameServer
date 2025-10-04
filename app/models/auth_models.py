@@ -1,4 +1,4 @@
-from pydantic import basemodel, BaseModel
+from pydantic import BaseModel
 
 
 class CreateUserRequest(BaseModel):
